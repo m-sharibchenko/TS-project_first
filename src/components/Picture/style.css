@@ -1,0 +1,12 @@
+.card-wrapper {
+    width: 200px;
+    height: 200px;
+}
+
+.show-card, .hide-card {
+    object-fit: cover;
+}
+
+.hide-card {
+    display: none;
+}

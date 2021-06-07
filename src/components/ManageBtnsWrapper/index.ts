@@ -1,0 +1,1 @@
+export { ManageBtnsWrapper } from './Component'

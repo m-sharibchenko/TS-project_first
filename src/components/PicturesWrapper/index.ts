@@ -1,0 +1,1 @@
+export { PicturesWrapper } from './Component'
